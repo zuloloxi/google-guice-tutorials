@@ -1,0 +1,24 @@
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.mvpjava.guicetutorial.singleImpl.MainImplTest
+This is printed only once at the MainImplTest beginning @BeforeClass
+@Before MainImplTest - last thing printed
+
+Shopping cart initially [$100.00] with a discount of 35.00% = [$65.00]
+
+######### PROGRAM FINISHED ###############
+@AfterClass MainImplTest - last thing printed
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.891 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 10.422 s
+[INFO] Finished at: 2018-08-15T15:45:29+03:00
+[INFO] Final Memory: 12M/29M
+[INFO] ------------------------------------------------------------------------
